@@ -4,7 +4,7 @@ Live data has been captured which creates accuracy in the data flow for the Mach
 A snapshot of the Tableau Preview is displayed as below: 
 
 ![Snapshot of Tableau Visualization Preview](/Images/Picture1.png)
-![Snapshot of Tableau Visualization Preview](/Images/Picture2.png)
+![Snapshot of Tableau Visualization Preview](/Images/Picture2.jpg)
 ![Snapshot of Tableau Visualization Preview](/Images/Picture3.png)
 ![Snapshot of Tableau Visualization Preview](/Images/Picture4.png)
 ![Snapshot of Tableau Visualization Preview](/Images/Picture5.png)
